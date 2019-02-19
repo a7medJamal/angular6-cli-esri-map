@@ -1,5 +1,4 @@
-# angular6-cli-esri-map
-angular and map Esri 
+# angular 6 cli and esri map 4.6.0 
 ```
 $ git clone https://github.com/a7medJamal/angular6-cli-esri-map.git && cd angular6-cli-esri-map
 ```
